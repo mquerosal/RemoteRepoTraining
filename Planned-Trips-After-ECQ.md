@@ -1,6 +1,7 @@
 Planned Trips After ECQ
 
- - [ ] Massage 
- - [ ] Free Lunch for new hires
- - [ ] SamgyupSalamat
- - [ ] Cebu North - Bantayan
+ - [ ] Hotel Staycation - Shang
+ - [ ] Beach (Bantayan)
+ - [ ] El Nido (Tao Philippines)
+ - [ ] Japan (Kyoto)
+ - [ ] Buffet
